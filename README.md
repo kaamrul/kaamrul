@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP** , **Laravel** , **Javascript** , **Jquery** & **C**
 
-- 📫 How to reach me **md.kaamrulhasangmail.com**
+- 📫 How to reach me **md.kaamrulhasan@gmail.com**
 
 
 	
