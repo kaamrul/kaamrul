@@ -44,7 +44,7 @@
 <a href="https://github.com/kaamrul">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kaamrul&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaamrul&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=kaamrul&theme=tokyonight" />
+  <img width="80%" height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=kaamrul&theme=tokyonight" />
 </a>
 </p>
 <br/>  
