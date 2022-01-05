@@ -38,14 +38,18 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ✨GitHub Stats  : 
 
 <p align="center">
 <a href="https://github.com/kaamrul">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaamrul&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaamrul&layout=compact&langs_count=8&theme=algolia"/>
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaamrul&theme=tokyonight" />
 </a>
 </p>
+<br/>  
+
+![kaamrul's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaamrul&theme=nord) 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
