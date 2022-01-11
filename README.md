@@ -41,10 +41,10 @@
 ### ✨GitHub Stats  : 
 
 <p align="center">
-<a href="https://github.com/kaamrul">
+<a href="https://github.com/kaamrul">	
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaamrul&theme=tokyonight" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kaamrul&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaamrul&layout=compact&langs_count=8&theme=algolia"/>
-  <img width="80%" height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=kaamrul&theme=tokyonight" />
 </a>
 </p>
 <br/>  
