@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kaamrul&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Reactjs, Hook, Redux, Nodejs, Typescript, etc.**
+- 🌱 I’m currently learning **Reactjs, Hook, Redux, Nodejs, Vue js, Typescript, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/kaamrul?tab=repositories)
 
