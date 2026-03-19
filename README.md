@@ -91,15 +91,6 @@ Currently exploring:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://kaamrul.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/kaamrul/">LinkedIn</a> •
-  <a href="https://github.com/kaamrul">GitHub</a> •
-  <a href="https://stackoverflow.com/users/10418084/kaamrul">Stack Overflow</a> •
-  <a href="https://www.facebook.com/kaamrul.dev/">Facebook Page</a> •
-  <a href="https://www.facebook.com/dev.kaamrul/">Facebook</a>
-</p>
-
 ---
 
 I don’t just write code I enjoy **solving problems, learning continuously, and improving every day**.  
