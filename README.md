@@ -1,3 +1,10 @@
+# Hi there, I'm Kamrul Hasan 👋
+
+🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast | Scalable Systems Builder
+📍 Based in Bangladesh  
+💻 Passionate about building scalable web applications and clean user experiences  
+
+---
 <h1 align="center">Md. Kamrul Hasan</h1>
 
 <p align="center">
@@ -11,33 +18,6 @@
 <p align="center">
   I build scalable SaaS platforms, API-driven systems, and high-performance web applications
   that solve real business problems.
-</p>
-
-<p align="center">
-  <a href="https://kaamrul.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/kaamrul/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kaamrul">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://stackoverflow.com/users/10418084/kaamrul">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:dev.kaamrul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dev.kaamrul%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/kaamrul.dev/">
-    <img src="https://img.shields.io/badge/Facebook%20Page-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Page" />
-  </a>
-  <a href="https://www.facebook.com/dev.kaamrul/">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
 </p>
 
 ---
@@ -101,6 +81,33 @@ Currently exploring:
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://kaamrul.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaamrul/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kaamrul">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://stackoverflow.com/users/10418084/kaamrul">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:dev.kaamrul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dev.kaamrul%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/kaamrul.dev/">
+    <img src="https://img.shields.io/badge/Facebook%20Page-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Page" />
+  </a>
+  <a href="https://www.facebook.com/dev.kaamrul/">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://kaamrul.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/kaamrul/">LinkedIn</a> •
   <a href="https://github.com/kaamrul">GitHub</a> •
@@ -111,10 +118,8 @@ Currently exploring:
 
 ---
 
-<p align="center">
-  <strong>I don’t just write code I enjoy **solving problems, learning continuously, and improving every day**.  
-Outside coding, I like exploring new tech trends and building things that make life easier.</strong>
-</p>
+I don’t just write code I enjoy **solving problems, learning continuously, and improving every day**.  
+Outside coding, I like exploring new tech trends and building things that make life easier.
 
 ---
 
