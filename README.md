@@ -1,4 +1,4 @@
-# Hi there, I'm Kamrul Hasan 👋
+# Md. Kamrul Hasan
 
 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast | Scalable Systems Builder  
 📍 Based in Bangladesh  
