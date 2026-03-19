@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <strong>📍 Based in Bangladesh</strong>
+</p>
+
+<p align="center">
   I build scalable SaaS platforms, API-driven systems, and high-performance web applications
   that solve real business problems.
 </p>
@@ -108,82 +112,9 @@ Currently exploring:
 ---
 
 <p align="center">
-  <strong>I build scalable systems that don’t break when your business grows.</strong>
+  <strong>I don’t just write code I enjoy **solving problems, learning continuously, and improving every day**.  
+Outside coding, I like exploring new tech trends and building things that make life easier.</strong>
 </p>
-
-
-
-
-# Hi there, I'm Kamrul Hasan 👋
-
-🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast  
-📍 Based in Bangladesh  
-💻 Passionate about building scalable web applications and clean user experiences  
-
----
-
-## 👨‍💻 About Me
-
-I'm a dedicated developer who enjoys turning ideas into real-world applications.  
-I focus on writing **clean, efficient, and maintainable code** while constantly learning new technologies.
-
-- 🔭 Currently working on: Modern web applications & personal projects  
-- 🌱 Learning: Advanced backend architecture & system design  
-- 💡 Interests: Web Development, Open Source, Automation  
-- 🎯 Goal: Build impactful products that solve real problems  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- JavaScript (ES6+)
-- TypeScript
-- Python
-
-### 🌐 Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- HTML5, CSS3
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### 🗄️ Database
-- MongoDB
-- MySQL
-
-### 🧰 Tools & Others
-- Git & GitHub
-- VS Code
-- Postman
-- Linux
-
----
-
-## 📈 GitHub Stats
-
-![Kamrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaamrul&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaamrul&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-- 📧 Email: dev.kaamrul@gmail.com  
-- 💼 LinkedIn: *(Add your link here)*  
-- 🌐 Portfolio: *(Add if you have one)*  
-
----
-
-## 💬 A Little More Human...
-
-I don’t just write code — I enjoy **solving problems, learning continuously, and improving every day**.  
-Outside coding, I like exploring new tech trends and building things that make life easier.
 
 ---
 
