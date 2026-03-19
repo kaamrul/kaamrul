@@ -1,24 +1,8 @@
 # Hi there, I'm Kamrul Hasan 👋
 
-🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast | Scalable Systems Builder
+🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast | Scalable Systems Builder  
 📍 Based in Bangladesh  
 💻 Passionate about building scalable web applications and clean user experiences  
-
----
-<h1 align="center">Md. Kamrul Hasan</h1>
-
-<p align="center">
-  <strong>Senior Software Engineer • SaaS Engineer • Scalable Systems Builder</strong>
-</p>
-
-<p align="center">
-  <strong>📍 Based in Bangladesh</strong>
-</p>
-
-<p align="center">
-  I build scalable SaaS platforms, API-driven systems, and high-performance web applications
-  that solve real business problems.
-</p>
 
 ---
 
