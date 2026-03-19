@@ -1,36 +1,112 @@
-# Md. Kamrul Hasan
+<h1 align="center">Md. Kamrul Hasan</h1>
 
-**Senior Software Engineer | Scalable SaaS & High-Performance Web Applications**
+<p align="center">
+  <strong>Senior Software Engineer • SaaS Engineer • Scalable Systems Builder</strong>
+</p>
 
-I build scalable SaaS platforms, API-driven systems, and high-performance web applications that solve real business problems.
+<p align="center">
+  I build scalable SaaS platforms, API-driven systems, and high-performance web applications
+  that solve real business problems.
+</p>
 
-With 4+ years of experience, I’ve worked on ERP, CRM, POS, e-commerce, LMS, employee tracking, and medical software—designing systems that are secure, maintainable, and built for growth.
+<p align="center">
+  <a href="https://kaamrul.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaamrul/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kaamrul">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://stackoverflow.com/users/10418084/kaamrul">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
 
-## Core Expertise
+<p align="center">
+  <a href="mailto:dev.kaamrul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dev.kaamrul%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/kaamrul.dev/">
+    <img src="https://img.shields.io/badge/Facebook%20Page-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Page" />
+  </a>
+  <a href="https://www.facebook.com/dev.kaamrul/">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
-- Scalable SaaS Development
-- REST API Design & Integration
-- Laravel Application Architecture
-- MySQL Database Design
-- Vue.js / React Frontend Development
-- Performance Optimization
-- CI/CD & Cloud Deployment
-- Intelligent Automation Systems
+---
 
-## Tech Stack
+## 🚀 About Me
 
-`Laravel` `PHP` `MySQL` `JavaScript` `Vue.js` `React` `REST API` `Git` `CI/CD`
+I’m a software engineer based in Bangladesh with 4+ years of experience building secure, maintainable, and scalable digital products.
 
-## Current Focus
+I work across backend architecture, REST APIs, frontend systems, database design, CI/CD pipelines, and cloud deployment—helping businesses turn ideas into high-performance software.
 
-Exploring AI automation and intelligent systems that improve business operations and decision-making.
+My experience includes building and optimizing:
 
-## Links
+- Employee Tracking Applications
+- Garments ERP
+- CRM Systems
+- POS Software
+- E-commerce Platforms
+- LMS Platforms
+- Medical Software
 
-- 🌐 Portfolio: [kaamrul.vercel.app](https://kaamrul.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/kaamrul](https://www.linkedin.com/in/kaamrul/)
-- 🧠 Stack Overflow: [stackoverflow.com/users/10418084/kaamrul](https://stackoverflow.com/users/10418084/kaamrul)
-- 📘 Facebook Page: [facebook.com/kaamrul.dev](https://www.facebook.com/kaamrul.dev/)
-- 📫 Email: dev.kaamrul@gmail.com
+---
 
-> Building systems that scale with business growth.
+## 💼 What I Build
+
+- Scalable SaaS platforms
+- High-performance web applications
+- Secure REST APIs and integrations
+- Business-driven software systems
+- Intelligent automation workflows
+
+---
+
+## 🧠 Core Expertise
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-Design-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-UI-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-Deployment-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Design-Scalable-16A34A?style=flat-square" />
+</p>
+
+---
+
+## 🔍 Current Focus
+
+Currently exploring:
+
+- AI automation
+- Intelligent systems
+- Workflow optimization
+- Scalable product architecture
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://kaamrul.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/kaamrul/">LinkedIn</a> •
+  <a href="https://github.com/kaamrul">GitHub</a> •
+  <a href="https://stackoverflow.com/users/10418084/kaamrul">Stack Overflow</a> •
+  <a href="https://www.facebook.com/kaamrul.dev/">Facebook Page</a> •
+  <a href="https://www.facebook.com/dev.kaamrul/">Facebook</a>
+</p>
+
+---
+
+<p align="center">
+  <strong>I build scalable systems that don’t break when your business grows.</strong>
+</p>
